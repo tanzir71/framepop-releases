@@ -1,0 +1,8 @@
+{
+  "name": "FramePop",
+  "short_name": "FramePop",
+  "description": "Turn UI screenshots into presentation videos on your Mac.",
+  "display": "standalone",
+  "background_color": "#0c0c0d",
+  "theme_color": "#0c0c0d"
+}
