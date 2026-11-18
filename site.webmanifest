@@ -1,8 +1,12 @@
 {
   "name": "FramePop",
   "short_name": "FramePop",
-  "description": "Turn UI screenshots into presentation videos on your Mac.",
+  "description": "Turn a set of UI screens into a presentation video, rendered locally on macOS or Windows.",
   "display": "standalone",
-  "background_color": "#0c0c0d",
-  "theme_color": "#0c0c0d"
+  "background_color": "#0b0b0d",
+  "theme_color": "#0b0b0d",
+  "icons": [
+    { "src": "favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "apple-touch-icon.png", "type": "image/png", "sizes": "180x180" }
+  ]
 }
